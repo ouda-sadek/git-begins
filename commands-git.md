@@ -1,3 +1,5 @@
+## Titre
+
 ->Creer un repository
        sur github
        copier l url
@@ -5,6 +7,7 @@
  Cloner un repository
        git clone url copiée
 
+# petit titre
 ➔ Les 3 commandes de push
        git add .
        git commit -m ""
