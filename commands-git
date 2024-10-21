@@ -2,7 +2,7 @@
        sur github
        copier l'url
 
-➔ Cloner un repository
+ Cloner un repository
        git clone url copiée
 
 ➔ Les 3 commandes de push
@@ -11,4 +11,11 @@
        git push
 
 ->Commande pull
-       git pull
+       git pull   
+
+-> Creer une branche et switcher
+       git checkout -b branche_name
+       git push -u origin branche_name
+
+->Envoyer sur github
+       git push -u origin branche_name
