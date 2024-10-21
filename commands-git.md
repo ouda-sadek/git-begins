@@ -1,6 +1,6 @@
 ->Creer un repository
        sur github
-       copier l'url
+       copier l url
 
  Cloner un repository
        git clone url copiée
